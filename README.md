@@ -53,5 +53,5 @@ The project consists of three distinct modules:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/privacy-brain-segmentation.git](https://github.com/your-username/privacy-brain-segmentation.git)
+   git clone [https://github.com/Sofiia-Mikhailova/privacy-brain-segmentation.git](https://github.com/your-username/privacy-brain-segmentation.git)
    cd privacy-brain-segmentation
